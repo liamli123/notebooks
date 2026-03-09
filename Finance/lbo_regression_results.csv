@@ -1,0 +1,17 @@
+Outcome,Spec,β (POST),SE,p-value,Sig
+Return on Assets,Firm + Year FE,0.0239,0.0022,0.0,***
+Return on Assets,Firm + Country-Year FE,0.0257,0.0012,0.0,***
+Return on Assets,Firm + Industry-Year FE,0.0259,0.0012,0.0,***
+Return on Assets,Firm + Event-Year FE,0.0209,0.0019,0.0,***
+Leverage (Debt/Assets),Firm + Year FE,0.0013,0.0047,0.787,
+Leverage (Debt/Assets),Firm + Country-Year FE,0.1553,0.0041,0.0,***
+Leverage (Debt/Assets),Firm + Industry-Year FE,0.1561,0.0039,0.0,***
+Leverage (Debt/Assets),Firm + Event-Year FE,0.1961,0.0021,0.0,***
+Sales Growth,Firm + Year FE,0.0278,0.0073,0.0,***
+Sales Growth,Firm + Country-Year FE,0.0329,0.0036,0.0,***
+Sales Growth,Firm + Industry-Year FE,0.0332,0.0034,0.0,***
+Sales Growth,Firm + Event-Year FE,0.0235,0.0049,0.0,***
+Employment Growth,Firm + Year FE,-0.0179,0.0056,0.002,***
+Employment Growth,Firm + Country-Year FE,-0.0238,0.0028,0.0,***
+Employment Growth,Firm + Industry-Year FE,-0.025,0.0026,0.0,***
+Employment Growth,Firm + Event-Year FE,-0.0219,0.0025,0.0,***
